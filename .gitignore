@@ -31,3 +31,5 @@
 *.app
 
 sln/vs17/\.vs/
+
+sln/vs17/Debug/
